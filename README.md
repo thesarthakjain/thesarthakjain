@@ -19,7 +19,7 @@
 ### Tools and Languages: <!-- [<img align="left" alt="" width="26px" src="" />][] -->
 [<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][sudoku-gui]
 [<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />][employee-DB]
-[<img align="left" alt="Selenium" width="30px" src="https://github.com/thesarthakjain/thesarthakjain/blob/main/utils/selenium1.jpg" />][auto-accept]
+[<img align="left" alt="Selenium" width="35px" src="https://github.com/thesarthakjain/thesarthakjain/blob/main/utils/selenium1.jpg" />][auto-accept]
 [<img align="left" alt="Discord" width="26px" src="https://simpleicons.org/icons/discord.svg" />][tsj-bot]
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/github.svg" />][hacktober-meet]
 [<img align="left" alt="Cryptography" width="26px" src="https://simpleicons.org/icons/letsencrypt.svg" />][cred-saver]
