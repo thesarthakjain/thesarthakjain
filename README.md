@@ -22,7 +22,7 @@
 [<img align="left" alt="Discord" width="26px" src="https://simpleicons.org/icons/discord.svg" />][tsj-bot]
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/github.svg" />][hacktober-meet]
 [<img align="left" alt="Cryptography" width="26px" src="https://simpleicons.org/icons/letsencrypt.svg" />][cred-saver]
-[<img align="left" alt="Heroku" width="26px" src="https://simpleicons.org/icons/heroku.svg" />][tsj-bot]
+[<img align="left" alt="Heroku" width="26px" src="https://simpleicons.org/icons/heroku.svg" />][auto-accept]
 [<img align="left" alt="RaspberryPi" width="26px" src="https://simpleicons.org/icons/raspberrypi.svg" />][tsj-bot]
 [<img align="left" alt="VS Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][sudoku-solver]
 
