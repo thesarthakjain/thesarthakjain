@@ -20,8 +20,10 @@
 
 <br />
 
+
 ### Now listening to:
  [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
+
 
 
 ### Connect with me:
