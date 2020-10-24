@@ -26,8 +26,9 @@
 [<img align="left" alt="VS Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][sudoku-solver]
 
 <br />
+
 ### Now listening to:
-[![Spotify](https://thesarthakjain.vercel.app/api/spotify)](https://open.spotify.com/user/thesarthakjain)
+[![Spotify](https://thesarthakjain.vercel.app/api/spotify)](https://open.spotify.com/user/github-spotify-api)
 
 [instagram]: https://instagram.com/thesarthakjain
 [linkedin]: https://www.linkedin.com/in/thesarthakjain
