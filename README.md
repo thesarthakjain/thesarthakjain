@@ -7,6 +7,7 @@
 - I make daily-life useful projets.
 - I like music and gaming.
 <br />
+
 ### Connect with me:
 [<img align="left" alt="Linkedin|thesarthakjain" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Instagram|thesarthakjain" width="110px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
