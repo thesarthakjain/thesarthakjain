@@ -28,7 +28,7 @@
 <br />
 
 ### Now listening to:
-[![Spotify](https://thesarthakjain.vercel.app/api/spotify)](https://open.spotify.com/user/github-spotify-api)
+ [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />](https://open.spotify.com/user/)
 
 [instagram]: https://instagram.com/thesarthakjain
 [linkedin]: https://www.linkedin.com/in/thesarthakjain
