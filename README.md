@@ -8,17 +8,6 @@
 - I like music and gaming.
 
 
-### Now listening to:
- [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
-
-
-### Connect with me:
-[<img align="left" alt="Linkedin|thesarthakjain" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Instagram|thesarthakjain" width="110px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="Spotify|Sarthak Jain" width="100px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
-[<img align="left" alt="Discord|IFellTower" width="100px" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord-invite]
-
-
 ### Tools and Languages: <!-- [<img align="left" alt="" width="26px" src="" />][] -->
 [<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][sudoku-gui]
 [<img align="left" alt="C++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />][employee-DB]
@@ -28,6 +17,17 @@
 [<img align="left" alt="Heroku" width="26px" src="https://simpleicons.org/icons/heroku.svg" />][auto-accept]
 [<img align="left" alt="RaspberryPi" width="26px" src="https://simpleicons.org/icons/raspberrypi.svg" />][tsj-bot]
 [<img align="left" alt="VS Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][sudoku-solver]
+
+
+### Now listening to:
+ [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
+
+
+### Connect with me:
+[<img align="left" alt="Linkedin|thesarthakjain" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Instagram|thesarthakjain" width="110px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Spotify|Sarthak Jain" width="100px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img align="left" alt="Discord|IFellTower" width="100px" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord-invite]
 
 
 [instagram]: https://instagram.com/thesarthakjain
