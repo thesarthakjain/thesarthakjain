@@ -1,6 +1,6 @@
-### Hi there, I'm Sarthak Jain  👋
+# Hi there, I'm Sarthak Jain  👋
 
-## I'm an engineering student!!
+### I'm an engineering student!!
 
 - I am looking to collaborate in the open source world.
 - I love python.
@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin|thesarthakjain" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Instagram|thesarthakjain" width="110px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="Spotify|Sarthak Jain" width="100px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
-[<img align="left" alt="Discord|IFellTower" width="100px" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord-invite]
+[<img align="centre" alt="Linkedin|thesarthakjain" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="centre" alt="Instagram|thesarthakjain" width="110px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="centre" alt="Spotify|Sarthak Jain" width="100px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img align="centre" alt="Discord|IFellTower" width="100px" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord-invite]
 
 <br />
 
