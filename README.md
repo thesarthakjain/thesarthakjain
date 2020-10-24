@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
-[<img align="left" width="22px" src="https://simpleicons.org/icons/spotify.svg" />][spotify]
+[<img align="left" width="26px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="26px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" width="26px" src="https://simpleicons.org/icons/spotify.svg" />][spotify]
 
 
 [instagram]: https://instagram.com/thesarthakjain
