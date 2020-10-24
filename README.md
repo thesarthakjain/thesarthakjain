@@ -15,5 +15,5 @@
 
 
 [instagram]: https://instagram.com/thesarthakjain
-[linkedin]: https://linkedin.com/thesarthakjain
+[linkedin]: www.linkedin.com/in/thesarthakjain
 [spotify]: https://open.spotify.com/user/3173cdyb5ycg6bbawxvrpnjmpxum?si=ZHYl6GKfRkKhmyeuVf4iJA
