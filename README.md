@@ -7,6 +7,7 @@
 - I make daily-life useful projets.
 - I like music and gaming.
 
+<br />
 
 ### Tools and Languages: <!-- [<img align="left" alt="" width="26px" src="" />][] -->
 [<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][sudoku-gui]
@@ -23,7 +24,7 @@
 ### Vibing to:
 [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
 
-
+<br />
 
 ### Connect with me:
 [<img align="left" alt="Linkedin|thesarthakjain" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
