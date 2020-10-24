@@ -18,8 +18,7 @@
 [<img align="left" alt="RaspberryPi" width="26px" src="https://simpleicons.org/icons/raspberrypi.svg" />][tsj-bot]
 [<img align="left" alt="VS Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][sudoku-solver]
 
-<br />
-
+<br /> <br />
 
 ### Now listening to:
  [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
