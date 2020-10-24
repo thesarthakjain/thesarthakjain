@@ -23,7 +23,7 @@
 <br />
 
 ### Vibing to:
-[<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
+[<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="Spotify|thesarthakjain" width="350" />][spotify]
 
 
 ### Connect with me:
