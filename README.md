@@ -24,6 +24,7 @@
 [<img align="left" alt="Cryptography" width="26px" src="https://simpleicons.org/icons/letsencrypt.svg" />][cred-saver]
 [<img align="left" alt="Heroku" width="26px" src="https://simpleicons.org/icons/heroku.svg" />][tsj-bot]
 [<img align="left" alt="RaspberryPi" width="26px" src="https://simpleicons.org/icons/raspberrypi.svg" />][tsj-bot]
+[<img align="left" alt="VS Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][sudoku-solver]
 
 
 
@@ -36,3 +37,4 @@
 [tsj-bot]: https://github.com/thesarthakjain/tsj-bot
 [hacktober-meet]: https://github.com/thesarthakjain/meet-up
 [cred-saver]: https://github.com/thesarthakjain/credential-saver
+[sudoku-solver]: https://github.com/thesarthakjain/sudoku-solver
