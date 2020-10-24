@@ -7,7 +7,7 @@
 - I make daily-life useful projets.
 - I like music and gaming.
 
-<br />
+
 
 ### Tools and Languages: <!-- [<img align="left" alt="" width="26px" src="" />][] -->
 [<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][sudoku-gui]
@@ -19,7 +19,9 @@
 [<img align="left" alt="RaspberryPi" width="26px" src="https://simpleicons.org/icons/raspberrypi.svg" />][tsj-bot]
 [<img align="left" alt="VS Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][sudoku-solver]
 
-<br /> <br />
+<br /> 
+<br />
+<br />
 
 ### Vibing to:
 [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
