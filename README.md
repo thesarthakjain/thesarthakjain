@@ -9,10 +9,10 @@
 
 ### Connect with me:
 <p align='center'>
-[<img align="center" alt="Linkedin|thesarthakjain" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="center" alt="Instagram|thesarthakjain" width="110px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="center" alt="Spotify|Sarthak Jain" width="100px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
-[<img align="center" alt="Discord|IFellTower" width="100px" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord-invite]
+[<alt="Linkedin|thesarthakjain" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<alt="Instagram|thesarthakjain" width="110px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<alt="Spotify|Sarthak Jain" width="100px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<alt="Discord|IFellTower" width="100px" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord-invite]
 </p>
 
 <br />
