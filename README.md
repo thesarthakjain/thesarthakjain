@@ -18,7 +18,7 @@
 ### Tools and Languages:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][sudoku-gui]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][employee-DB]
-[<img align="left" alt="Selenium" width="35px" src="https://github.com/thesarthakjain/thesarthakjain/blob/main/utils/selenium.png" />][auto-accept]
+[<img align="left" alt="Selenium" width="30px" src="https://github.com/thesarthakjain/thesarthakjain/blob/main/utils/selenium.png" />][auto-accept]
 
 
 [instagram]: https://instagram.com/thesarthakjain
