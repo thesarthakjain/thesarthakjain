@@ -20,7 +20,7 @@
 
 <br /> <br />
 
-### Now listening to:
+### Spotify Activity
  [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
 
 
