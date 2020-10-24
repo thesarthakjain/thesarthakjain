@@ -12,6 +12,7 @@
 [<img align="left" alt="Linkedin|thesarthakjain" width="26px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram|thesarthakjain" width="26px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Spotify|Sarthak Jain" width="26px" src="https://simpleicons.org/icons/spotify.svg" />][spotify]
+[<img align="left" alt="Discord|IFellTower" width="26px" src="https://simpleicons.org/icons/discord.svg" />][discord-invite]
 
 <br />
 
@@ -38,3 +39,4 @@
 [hacktober-meet]: https://github.com/thesarthakjain/meet-up
 [cred-saver]: https://github.com/thesarthakjain/credential-saver
 [sudoku-solver]: https://github.com/thesarthakjain/sudoku-solver
+[discord-invite]: https://discord.com/invite/r3MVhSb
