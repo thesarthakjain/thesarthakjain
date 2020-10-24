@@ -9,7 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="thesarthakjain | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://simpleicons.org/icons/spotify.svg" />][spotify]
 
 
 [instagram]: https://instagram.com/thesarthakjain
+[linkedin]: https://linkedin.com/thesarthakjain
+[spotify]: https://open.spotify.com/user/3173cdyb5ycg6bbawxvrpnjmpxum?si=ZHYl6GKfRkKhmyeuVf4iJA
