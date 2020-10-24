@@ -21,6 +21,7 @@
 [<img align="left" alt="Selenium" width="30px" src="https://github.com/thesarthakjain/thesarthakjain/blob/main/utils/selenium.png" />][auto-accept]
 [<img align="left" alt="Discord" width="26px" src="https://simpleicons.org/icons/discord.svg" />][tsj-bot]
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/github.svg" />][hacktober-meet]
+[<img align="left" alt="Cryptography" width="26px" src="https://simpleicons.org/icons/letsencrypt.svg" />][cred-saver]
 
 
 
@@ -32,3 +33,4 @@
 [auto-accept]: https://github.com/thesarthakjain/insta-auto-accept
 [tsj-bot]: https://github.com/thesarthakjain/tsj-bot
 [hacktober-meet]: https://github.com/thesarthakjain/meet-up
+[cred-saver]: https://github.com/thesarthakjain/credential-saver
