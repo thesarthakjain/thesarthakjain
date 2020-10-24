@@ -1,12 +1,12 @@
 # Hi there, I'm Sarthak Jain  👋
 
+
 ### I'm an engineering student!!
 - I am looking to collaborate in the open source world.
 - I love python.
 - I make daily-life useful projets.
 - I like music and gaming.
 
-<br />
 
 ### Now listening to:
  [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
@@ -18,7 +18,6 @@
 [<img align="left" alt="Spotify|Sarthak Jain" width="100px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 [<img align="left" alt="Discord|IFellTower" width="100px" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord-invite]
 
-<br /><br />
 
 ### Tools and Languages: <!-- [<img align="left" alt="" width="26px" src="" />][] -->
 [<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][sudoku-gui]
