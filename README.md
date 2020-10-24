@@ -7,6 +7,11 @@
 - I make daily-life useful projets.
 - I like music and gaming.
 
+<br />
+### Now listening to:
+ [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
+
+
 ### Connect with me:
 [<img align="left" alt="Linkedin|thesarthakjain" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Instagram|thesarthakjain" width="110px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
@@ -25,10 +30,6 @@
 [<img align="left" alt="RaspberryPi" width="26px" src="https://simpleicons.org/icons/raspberrypi.svg" />][tsj-bot]
 [<img align="left" alt="VS Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][sudoku-solver]
 
-<br />
-
-### Now listening to:
- [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />](https://open.spotify.com/user/)
 
 [instagram]: https://instagram.com/thesarthakjain
 [linkedin]: https://www.linkedin.com/in/thesarthakjain
