@@ -21,12 +21,10 @@
 
 <br /> 
 <br />
-<br />
 
 ### Vibing to:
 [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="thesarthakjain Spotify Playing" width="350" />][spotify]
 
-<br />
 
 ### Connect with me:
 [<img align="left" alt="Linkedin|thesarthakjain" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
