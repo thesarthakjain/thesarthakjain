@@ -25,6 +25,7 @@
 [<img align="left" alt="RaspberryPi" width="26px" src="https://simpleicons.org/icons/raspberrypi.svg" />][tsj-bot]
 [<img align="left" alt="VS Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][sudoku-solver]
 
+<br />
 ### Now listening to:
 [![Spotify](https://thesarthakjain.vercel.app/api/spotify)](https://open.spotify.com/user/thesarthakjain)
 
