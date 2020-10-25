@@ -2,10 +2,10 @@
 
 
 ### I'm an engineering student!!
-- I am looking to collaborate in the open source world.
-- I love python.
-- I make daily-life useful projects.
-- I like music and gaming.
+-🌏 I am looking to collaborate in the open source world.
+-🐍 I love python.
+-💻 I make daily-life useful projects.
+-🎶 I like music and gaming.
 
 
 
