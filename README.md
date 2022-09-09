@@ -1,7 +1,10 @@
 # Konnichiwa, I'm Sarthak Jain.
 - Computer Science Engineering Undergraduate.
+- Eye of a criminal with ethics.
 - Learning Offensive Cyber Security.
-- I play CTFs.
+- I'm never not hungry for more - be it knowledge, skill, or money.
+- I observe and remember minor details.
+- Can google very well.
 
 ### Vibing to:
 [<img src="https://github-spotify-api.thesarthakjain.vercel.app/api/spotify" alt="Spotify|thesarthakjain" width="350" />][spotify]
